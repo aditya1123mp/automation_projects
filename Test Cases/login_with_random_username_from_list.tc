@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login_with_random_username_from_list</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>26d29cdc-2fd0-45ff-b50f-ea794a2fd393</testCaseGuid>
+</TestCaseEntity>

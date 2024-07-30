@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>logout_option</name>
+   <tag></tag>
+   <elementGuidId>64e7b3ad-adcb-4924-99fc-3456246ce032</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[text()='Logout']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[@id=&quot;logout_sidebar_link&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//a[@id=&quot;logout_sidebar_link&quot;]</value>
+      <webElementGuid>6fdc98e9-c1de-4d9c-a34e-e179777d12d6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

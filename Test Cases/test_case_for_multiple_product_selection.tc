@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_case_for_multiple_product_selection</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>363c713e-47c8-4908-ae53-dffd3601cd1e</testCaseGuid>
+</TestCaseEntity>

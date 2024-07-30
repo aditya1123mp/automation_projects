@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_case_for_multiple_product_checkout_review</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e31e5cb2-6e46-4482-b653-2159533487ba</testCaseGuid>
+</TestCaseEntity>

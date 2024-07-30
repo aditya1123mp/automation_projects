@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>selecting_multiple_products_from_product_page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3eb2a33c-7bb7-4dea-b784-b33ffbe68aab</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>getting_price_of_the_product</name>
+   <tag></tag>
+   <elementGuidId>5e39a149-104e-486e-affc-d20638532369</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id=&quot;add-to-cart-sauce-labs-backpack&quot;]/ancestor::div[@class=&quot;pricebar&quot;]/div[@data-test=&quot;inventory-item-price&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class=&quot;item_pricebar&quot;]/div[@class=&quot;inventory_item_price&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class=&quot;item_pricebar&quot;]/div[@class=&quot;inventory_item_price&quot;]</value>
+      <webElementGuid>e46f952f-a1f5-4393-b39c-e1e09ec73307</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

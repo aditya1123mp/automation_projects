@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>LOGIN TEST CASE FOR saucedemo WEBSITE</description>
+   <name>Login_test_case_for_saucedemo</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>263286a2-1fd0-4148-a986-07cc0dac39ee</testCaseGuid>
+</TestCaseEntity>

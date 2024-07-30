@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>test_case_for_cart_icon_for_multiple_products</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>898c7d5b-637a-4cc7-97cd-0110b2ccdbe8</testCaseGuid>
+</TestCaseEntity>
